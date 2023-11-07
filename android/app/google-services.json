@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744047442083",
+    "project_id": "bchatapp-9e10f",
+    "storage_bucket": "bchatapp-9e10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744047442083:android:9f0cf41d61798e4f5de716",
+        "android_client_info": {
+          "package_name": "com.example.bchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf1IKf5l6ZVPwkoacvQGUCJLdafqtrX5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
